@@ -21,6 +21,7 @@ This sub-directory contains the scripts which uses A* and proportional navigatio
 
 ![evader and pursuer (no evasion)](https://user-images.githubusercontent.com/42896783/168454645-74b6528f-3e5f-46df-90b2-7bddb621fe0a.PNG)
 
+*Labels were flipped (pursuer = evader and evader = pursuer)
 ![evader and pursuer](https://user-images.githubusercontent.com/42896783/168454647-df2d810a-2701-44d3-aba5-be09b3c3c9f8.PNG)
 
 ![evader_pursuer_gazebo](https://user-images.githubusercontent.com/42896783/168454655-daa31a8a-7703-489c-be00-4ab96ba051a3.PNG)

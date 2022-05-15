@@ -25,3 +25,15 @@ This sub-directory contains the scripts which uses A* and proportional navigatio
 ![evader and pursuer](https://user-images.githubusercontent.com/42896783/168454647-df2d810a-2701-44d3-aba5-be09b3c3c9f8.PNG)
 
 ![evader_pursuer_gazebo](https://user-images.githubusercontent.com/42896783/168454655-daa31a8a-7703-489c-be00-4ab96ba051a3.PNG)
+
+## Project
+[Project Sub-Directory](https://github.com/petern2599/Unmanned-Systems/tree/main/Project)
+
+This sub-directory contains the script used to plan a path for a Turtlebot to some desired goal waypoint. In the path-planning algorithm, a rudimentary collision avoidance algorithm is integrated to adaptively dodge dynamic obstacles using the simulated LIDAR sensor. After dodging obstacles, it will return back to its planned path.
+
+![turtlebot](https://user-images.githubusercontent.com/42896783/168454753-58ee0300-ba41-4fa1-af65-6ef0f65ea896.PNG)
+
+![turtlebot2](https://user-images.githubusercontent.com/42896783/168454754-a56ffee9-fcdc-4f53-a802-cd760f9368dd.PNG)
+
+
+
